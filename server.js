@@ -186,3 +186,5 @@ app.use('/graph', graphqlHTTP({ schema, rootValue, graphiql: true }));
 app.listen(5000, () => {
     console.log('Server is runing');
 });
+
+// name : mustafa mohamed mahmoud
